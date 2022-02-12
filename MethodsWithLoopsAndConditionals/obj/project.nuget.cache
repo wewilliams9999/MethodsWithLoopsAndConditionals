@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlw30EH8qzXM5d3eq7oUkTfrcqmojkAGfFyajJsmr0mPFjAWJepmP6h/srndNEZO/AVDanbcW7a5YkEh8dfhwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
